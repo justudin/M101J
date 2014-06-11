@@ -1,6 +1,6 @@
 Disclaimer
 
-This is just for backuping purposes.
+This is just for backuping purpose.
 
 Thank you for visiting my repository
 
@@ -8,6 +8,5 @@ Thank you for visiting my repository
 For more information please don't hesitate to contact me.
 
 
-Thanks
-
+Thanks,
 Justudin
