@@ -311,6 +311,7 @@ public class BlogController {
                 }
                 else {
                     blogPostDAO.addPostComment(name, email, body, permalink);
+                    //System.out.print(post);
                     response.redirect("/post/" + permalink);
                 }
             }
